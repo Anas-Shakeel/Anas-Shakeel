@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anas Shakeel
 ====================================================================================================================================
 
-Programmer
+Software Developer
 ----------
 
 Passionate programmer with a love for coding, actively creating and exploring different areas of digital art and software development through self-initiated projects.
