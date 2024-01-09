@@ -32,6 +32,4 @@ Passionate programmer with a love for coding, actively creating and exploring di
 
 <a href="http://www.github.com/Anas-Shakeel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas-Shakeel&stroke=64748b&background=171717&ring=3382ed&fire=3382ed&currStreakNum=64748b&currStreakLabel=3382ed&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=anas-shakeel&" alt="anas-shakeel" /></p>
-
 <a href="https://github.com/Anas-Shakeel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Shakeel&langs_count=10&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
