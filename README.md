@@ -24,7 +24,7 @@ Software Developer
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anas-shakeel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=anas-shakeel&limit=4&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anas-Shakeel&icon=9&color=12)](https://visitcount.itsvg.in)
