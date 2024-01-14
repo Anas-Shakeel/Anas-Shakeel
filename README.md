@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anas Shakeel
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Anas Shakeel
 ====================================================================================================================================
 
 Software Developer
 ----------
 
-🌍  I'm based in Abbottabad, Pakistan<br>🔭 I’m currently working on ImgCrawler<br>👯 I’m looking to collaborate on Webscraping Projects<br>🌱 I’m learning C, Data Structures & Algorithms, CS50's Intro to CS<br>💬 Ask me about Python, Webscraping, Tkinter<br>⚡ Fun fact: My dog's name is... oh! i don't own one.
+🌍  I'm based in **Abbottabad, Pakistan**<br>🔭 I’m currently working on **ImgCrawler**<br>👯 I’m looking to collaborate on **Webscraping Projects**<br>🌱 I’m learning **C, Data Structures & Algorithms, CS50's Intro to CS**<br>💬 Ask me about **Python, Webscraping, Tkinter**<br>⚡ Fun fact: **My dog's name is... oh! i don't own one.**
 
 
 ## 🌐 Socials:
