@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ----------
 
-🌍  I'm based in **Abbottabad, Pakistan**<br>🔭 I’m currently working on **Skillsbuilding**<br>👯 I’m looking to collaborate on **Webscraping Projects**<br>🌱 I’m learning **C, Data Structures & Algorithms, CS50's Intro to CS**<br>💬 Ask me about **C, Python, Webscraping, Tkinter**<br>⚡ Fun fact: **My dog's name is... oh! i don't own one.**
+🌍  I'm based in **Abbottabad, Pakistan**<br>🔭 I’m currently working on **Skillsbuilding**<br>👯 I’m looking to collaborate on **Webscraping Projects**<br>🌱 I’m learning **C, Data Structures & Algorithms, CS50's Intro to CS**<br>💬 Ask me about **C, Python, SQLite3, Webscraping, Tkinter**<br>⚡ Fun fact: **My dog's name is... oh! i don't own one.**
 
 
 ## 🌐 Socials:
