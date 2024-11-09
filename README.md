@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ----------
 
-🌍  I'm based in **Abbottabad, Pakistan**<br>🔭 I’m currently working on **Skillsbuilding**<br>👯 I’m looking to collaborate on **Frontend Projects**<br>🌱 I’m learning **Frontend Development**<br>💬 Ask me about **C, Python, Javascript, HTML/CSS, Webscraping, Tkinter**<br>⚡ Fun fact: **My dog's name is... oh! i don't own one.**
+🌍  I'm based in **Abbottabad, Pakistan**<br>🔭 I’m currently working on **Skillsbuilding**<br>👯 I’m looking to collaborate on **Frontend Projects**<br>🌱 I’m learning **Frontend Development**<br>💬 Ask me about **C, Python, Javascript, HTML/CSS, Webscraping, Tkinter**<br>⚡ Fun fact: **I mostly code offline.**
 
 
 ## 🌐 Socials:
