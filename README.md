@@ -5,7 +5,7 @@ Software Developer
 ----------
 
 🌍  I'm based in **Abbottabad, Pakistan**<br>
-🔭 I’m currently working on **go-bmp**<br>
+🔭 I’m currently working on **gocat**<br>
 👯 I’m looking to collaborate on **CLI Tools & Webscraping Projects**<br>
 🌱 I’m planning on learning **Backend Development** with **Golang**<br>
 ⚡ Fun fact: **~~I can solve Rubik's Cube in under 3 minutes.~~** **Any Idiot can do that!**
