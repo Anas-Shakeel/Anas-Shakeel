@@ -3,8 +3,6 @@ I'm Anas Shakeel
 
 A person interested in computers, programming, maths, fractals, music, movies and a whole lot of other things.
 
-My friends know me as **Jack** _(of all, & master of none)_
-
 ----------
 
 ## My Social Links:
